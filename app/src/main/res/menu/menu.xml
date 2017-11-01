@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_Menu"
+        android:icon="@drawable/menu"
+        android:title="@string/Menu"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_Play"
+        android:icon="@drawable/play"
+        android:title="@string/Play"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_About"
+        android:icon="@drawable/about"
+        android:title="@string/About"
+        app:showAsAction="ifRoom"/>
+</menu>

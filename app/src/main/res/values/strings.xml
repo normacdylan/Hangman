@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="Play">Play</string>
+    <string name="About">About</string>
+    <string name="Guess">Guess</string>
+    <string name="Back">Back</string>
+    <string name="Info">10 attempts left.</string>
+    <string name="GuessedWord">.</string>
+    <string name="Quit">Quit</string>
+    <string name="length">The guess has to be one letter long</string>
+    <string name="already">You have already guessed on that letter</string>
+    <string name="won">Congratulations! You won!</string>
+    <string name="lost">You lost! </string>
+    <string name="Again">Play again</string>
+    <string name="Menu">Menu</string>
+    <string name="AboutLong">This is my first Android App.</string>
+    <string name="isNotLetter">You can only guess on letters</string>
+    <string name="Make">Make a guess</string>
+</resources>
